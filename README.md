@@ -11,7 +11,7 @@
 [![Issue Stats](https://img.shields.io/issuestats/i/github/gaetanozappi/react-native-instagram-album.svg?style=flat&colorB=44cc11)](http://github.com/gaetanozappi/react-native-instagram-album/issues)
 [![github license](https://img.shields.io/github/license/gaetanozappi/react-native-instagram-album.svg)]()
 
-<img src="https://raw.githubusercontent.com/gaetanozappi/react-native-instagram-album/blob/master/screenshot/react-native-instagran-album.gif" />
+<img src="https://github.com/gaetanozappi/react-native-instagram-album/raw/master/screenshot/react-native-instagran-album.gif" />
 
 -   [Usage](#-usage)
 -   [License](#-license)
