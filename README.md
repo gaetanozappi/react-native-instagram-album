@@ -11,7 +11,7 @@
 [![Issue Stats](https://img.shields.io/issuestats/i/github/gaetanozappi/react-native-instagram-album.svg?style=flat&colorB=44cc11)](http://github.com/gaetanozappi/react-native-instagram-album/issues)
 [![github license](https://img.shields.io/github/license/gaetanozappi/react-native-instagram-album.svg)]()
 
-![GIF](https://github.com/gaetanozappi/react-native-instagram-album/blob/master/screenshot/react-native-instagran-album.gif)
+<img src="https://github.com/gaetanozappi/react-native-instagram-album/blob/master/screenshot/react-native-instagran-album.gif" />
 
 -   [Usage](#-usage)
 -   [License](#-license)
@@ -21,6 +21,8 @@
 `$ npm install react-native-instagram-album --save`
 
 ## 💻 Usage
+
+Track.js
 
 ```javascript
 module.exports = {
@@ -61,6 +63,8 @@ module.exports = {
     'https://p.scdn.co/mp3-preview/4ab65f9b193ccc37f2059344322462ae5e9dac90',
 };
 ```
+
+App.js
 
 ```javascript
 import * as React from 'react';

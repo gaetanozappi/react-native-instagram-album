@@ -1,7 +1,7 @@
 {
   "name": "react-native-instagram-album",
   "version": "0.0.1",
-  "description": "React Native library to generate avatar social.",
+  "description": "React Native library to generate instagram album.",
   "repository": {
     "type": "git",
     "url": "https://github.com/gaetanozappi/react-native-instagram-album.git"
@@ -17,10 +17,10 @@
   "dependencies": {},
   "keywords": [
     "react-native",
-    "google",
-    "circle",
-    "avatar",
-    "social"
+    "instagram",
+    "album",
+    "song",
+    "music"
   ],
   "author": "Gaetano Zappi",
   "license": "Apache License 2.0",
