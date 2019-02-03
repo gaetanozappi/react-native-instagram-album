@@ -1,0 +1,28 @@
+{
+  "name": "react-native-instagram-album",
+  "version": "0.0.1",
+  "description": "React Native library to generate avatar social.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaetanozappi/react-native-instagram-album.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaetanozappi/react-native-instagram-album/issues"
+  },
+  "homepage": "https://github.com/gaetanozappi/react-native-instagram-album#readme",
+  "main": "Album.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "keywords": [
+    "react-native",
+    "google",
+    "circle",
+    "avatar",
+    "social"
+  ],
+  "author": "Gaetano Zappi",
+  "license": "Apache License 2.0",
+  "peerDependencies": {}
+}
